@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="saludo">Hello! are you talking to</string>
+    <string name="ayuda">Type "help" to see commands</string>
+    <string name="enviar">Send</string>
+</resources>

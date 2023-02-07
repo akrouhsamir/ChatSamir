@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+    <TextView
+        android:id="@+id/text_copy"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Copiar"
+        android:textColor="#000"
+        android:textSize="20dp"
+        android:padding="20dp"
+        android:drawableLeft="@drawable/ic_copy"
+        android:drawablePadding="10dp"/>
+
+    <TextView
+        android:id="@+id/text_delete"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Borrar"
+        android:textSize="20dp"
+        android:textColor="#000"
+        android:padding="20dp"
+        android:drawableLeft="@drawable/ic_remove"
+        android:drawablePadding="10dp"/>
+
+
+
+</LinearLayout>
